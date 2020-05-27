@@ -8,4 +8,7 @@ package com.ym;
  * @createTime 2020-05-27 17:34:00
  */
 public class Lambda {
+    public static void main(String[] args) {
+        
+    }
 }
