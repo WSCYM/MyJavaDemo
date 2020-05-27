@@ -1,4 +1,4 @@
-package com.ym.lambda;
+package com.ym.lambda.interfaces;
 
 /**
  * @author ym
